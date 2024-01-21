@@ -1,4 +1,4 @@
-### Hi there 👋
+Hola, soy estudiante de la UTN-FRSR
 
 <!--
 **GastonMarenco/GastonMarenco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
