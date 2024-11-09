@@ -1,9 +1,5 @@
 <h1>Hey there, I'm <a  href="https://github.com/GastonMarenco/">Gaston Marenco </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-[![linkedin badge](https://img.shields.io/badge/tanyagupta0201-30302f?style=flat&logo=linkedin)]([https://www.linkedin.com/in/tanyagupta0201](https://www.linkedin.com/in/gast%C3%B3n-marenco-78270a2a8/)
-[![Gmail Badge](https://img.shields.io/badge/tanyagupta.pg@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:gastonmarenco32@gmail.com)
-<img src="https://komarev.com/ghpvc/?username=tanyagupta0201&style=plastic" />
-
 Soy un estudiante de la Tecnicatura Universitaria en Programacion en la UTN
 
 <br>
